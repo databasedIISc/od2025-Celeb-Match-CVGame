@@ -16,6 +16,10 @@ Repeat the process for [this dataset](https://www.kaggle.com/datasets/havingfun/
 
 ### Step 1: Clone the Repository
 
+```bash
+git clone https://github.com/databasedIISc/od2025-Celeb-Match-CVGame.git
+```
+
 ### Step 2: Create an Environment
 
 ```bash
