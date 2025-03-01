@@ -1,0 +1,1 @@
+Download [this dataset](https://www.kaggle.com/datasets/havingfun/100-bollywood-celebrity-faces) and organize all 100 image folders into this folder.
